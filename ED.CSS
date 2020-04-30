@@ -1,0 +1,172 @@
+#one
+{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+#nav
+{
+	border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 75px;
+    border-bottom-left-radius: 75px;
+}
+#right
+{
+	margin-right: : 0px;
+	margin-top: 15px;
+}
+
+h1
+{
+	font-family: 'Lobster', cursive;
+}
+.bg-light {
+    background-color: #101010!important;
+}
+#imgg
+{		
+	height: 600px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(255, 255, 255);
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: rgba(255, 255, 255);
+}
+.container
+{
+	margin-left: 0px;
+}
+#beer {
+    margin-left: 598px;
+    margin-top: -350px;
+    width: 700px;
+    height: 450px;
+    margin-bottom: 20px;
+    border-bottom: 20px solid  #400100;
+    border-right: 20px solid  #400100;
+}
+p
+{
+	font-size: 20px;
+}
+#btn
+{
+	border-radius:10px;
+	background-color: #400100;
+	color: white;
+	text-shadow: 10px;
+	padding:12px;
+}
+#still
+{
+
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+ background-size: 1348px;
+}
+#still{
+    background-position: center;
+    background-image: url(https://img5.goodfon.com/wallpaper/nbig/f/cf/natiurmort-kompozitsiia-eda-temnyi-fon-frukty-abrikosy-listi.jpg);
+    background-attachment: fixed;
+   width: 1348px;
+   height :500px;
+}
+#menu
+{
+	text-align: center;
+	margin: auto;
+	margin-top: 50px;
+	color: #000000;
+}
+.row
+{   
+    margin-top: 50px;
+    margin-left: 480px;
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+}
+td
+{
+  
+    height:165px;
+    width:260px;
+    padding: 20px;
+ }
+ #images
+ {
+    height:165px;
+    width:260px;
+
+ }
+ #bt1
+ {
+    border-radius:10px;
+    background-color: #400100;
+    color: white;
+    margin-left: 130px;
+    margin-bottom: 5px;
+    background-size: 50px;
+    font-size: 25px;
+    padding: 8px;
+ }
+#bt2
+ {
+    border-radius:10px;
+    background-color: #400100;
+    color: white;
+    margin-left: 130px;
+    margin-bottom: 5px;
+    background-size: 50px;
+    font-size: 25px;
+    padding: 8px;
+ }
+ #bt3
+ {
+    border-radius:10px;
+    background-color: #400100;
+    color: white;
+    margin-left: 130px;
+    margin-bottom: 5px;
+    background-size: 50px;
+    font-size: 25px;
+    padding: 8px;
+ }
+#bt4
+ {
+    border-radius:10px;
+    background-color: #400100;
+    color: white;
+    margin-left: 130px;
+    margin-bottom: 5px;
+    background-size: 50px;
+    font-size: 25px;
+    padding: 8px;
+ }
+ table
+ {
+    margin-top: -268px;
+ }
+ #pp
+ {
+margin-bottom: 50px;
+ }
+ #review
+ {
+    height: 170px;
+    margin-left: 590px;
+}
+#rev
+{
+    text-align: center;
+    color: #400100;
+    font-family: 'Inria Sans', sans-serif;
+
+}
+#info
+{
+    height: 50px;
+    border-radius: 5px;
+    width:450px; 
+  
+}
